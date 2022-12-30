@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumia Ouafi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouafisoumia&label=Profile%20views&color=0e75b6&style=flat" alt="ouafisoumia" /> </p>
-
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="400"  alt="Italian Trulli">
 <p align="left"> <a href="https://twitter.com/soumia_ouafi" target="blank"><img src="https://img.shields.io/twitter/follow/soumia_ouafi?logo=twitter&style=for-the-badge" alt="soumia_ouafi" /></a> </p>
 
 - 🔭 I’m currently working on **chatbot**
