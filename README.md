@@ -1,4 +1,3 @@
-[![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Soumia Ouafi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouafisoumia&label=Profile%20views&color=0e75b6&style=flat" alt="ouafisoumia" /> </p>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align="right" width="400"  alt="Italian Trulli">
